@@ -1,8 +1,8 @@
-**Sales Data Visualization**:
+**Sales Data Visualization**
 
   This project demonstrates basic data visualization using Matplotlib in Python. It includes line charts, bar graphs, and pie charts to represent different types of product sales and stock data in a visually appealing format.
   
-**Description**:
+**Description**
 
 Using Matplotlib, we visualized:
   1. Daily sales using a line chart
